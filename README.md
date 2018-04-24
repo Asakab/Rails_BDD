@@ -16,4 +16,3 @@ La startup tech du moment
 3. Création de modèles
 
 Gem -> 'bundle install'
- 
