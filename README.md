@@ -1,1 +1,1 @@
-# BDD-rails
+# BDD
